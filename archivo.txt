@@ -1,0 +1,1 @@
+Se abrió el archivo con el comando touch seguido del nombre que se le quiere dar.
